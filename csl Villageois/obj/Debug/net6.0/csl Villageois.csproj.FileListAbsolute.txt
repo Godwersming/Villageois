@@ -1,0 +1,36 @@
+C:\Users\flaurimont_a\source\repos\ClassVillageois\csl Villageois\bin\Debug\net6.0\csl Villageois.exe
+C:\Users\flaurimont_a\source\repos\ClassVillageois\csl Villageois\bin\Debug\net6.0\csl Villageois.deps.json
+C:\Users\flaurimont_a\source\repos\ClassVillageois\csl Villageois\bin\Debug\net6.0\csl Villageois.runtimeconfig.json
+C:\Users\flaurimont_a\source\repos\ClassVillageois\csl Villageois\bin\Debug\net6.0\csl Villageois.dll
+C:\Users\flaurimont_a\source\repos\ClassVillageois\csl Villageois\bin\Debug\net6.0\csl Villageois.pdb
+C:\Users\flaurimont_a\source\repos\ClassVillageois\csl Villageois\bin\Debug\net6.0\ClassVillageois.dll
+C:\Users\flaurimont_a\source\repos\ClassVillageois\csl Villageois\bin\Debug\net6.0\ClassVillageois.pdb
+C:\Users\flaurimont_a\source\repos\ClassVillageois\csl Villageois\obj\Debug\net6.0\csl Villageois.csproj.AssemblyReference.cache
+C:\Users\flaurimont_a\source\repos\ClassVillageois\csl Villageois\obj\Debug\net6.0\csl Villageois.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\flaurimont_a\source\repos\ClassVillageois\csl Villageois\obj\Debug\net6.0\csl Villageois.AssemblyInfoInputs.cache
+C:\Users\flaurimont_a\source\repos\ClassVillageois\csl Villageois\obj\Debug\net6.0\csl Villageois.AssemblyInfo.cs
+C:\Users\flaurimont_a\source\repos\ClassVillageois\csl Villageois\obj\Debug\net6.0\csl Villageois.csproj.CoreCompileInputs.cache
+C:\Users\flaurimont_a\source\repos\ClassVillageois\csl Villageois\obj\Debug\net6.0\csl Villageois.csproj.CopyComplete
+C:\Users\flaurimont_a\source\repos\ClassVillageois\csl Villageois\obj\Debug\net6.0\csl Villageois.dll
+C:\Users\flaurimont_a\source\repos\ClassVillageois\csl Villageois\obj\Debug\net6.0\refint\csl Villageois.dll
+C:\Users\flaurimont_a\source\repos\ClassVillageois\csl Villageois\obj\Debug\net6.0\csl Villageois.pdb
+C:\Users\flaurimont_a\source\repos\ClassVillageois\csl Villageois\obj\Debug\net6.0\csl Villageois.genruntimeconfig.cache
+C:\Users\flaurimont_a\source\repos\ClassVillageois\csl Villageois\obj\Debug\net6.0\ref\csl Villageois.dll
+E:\ClassVillageois\csl Villageois\obj\Debug\net6.0\csl Villageois.csproj.AssemblyReference.cache
+E:\ClassVillageois\csl Villageois\obj\Debug\net6.0\csl Villageois.GeneratedMSBuildEditorConfig.editorconfig
+E:\ClassVillageois\csl Villageois\obj\Debug\net6.0\csl Villageois.AssemblyInfoInputs.cache
+E:\ClassVillageois\csl Villageois\obj\Debug\net6.0\csl Villageois.AssemblyInfo.cs
+E:\ClassVillageois\csl Villageois\obj\Debug\net6.0\csl Villageois.csproj.CoreCompileInputs.cache
+E:\ClassVillageois\csl Villageois\obj\Debug\net6.0\csl Villageois.dll
+E:\ClassVillageois\csl Villageois\obj\Debug\net6.0\refint\csl Villageois.dll
+E:\ClassVillageois\csl Villageois\obj\Debug\net6.0\csl Villageois.pdb
+E:\ClassVillageois\csl Villageois\bin\Debug\net6.0\csl Villageois.exe
+E:\ClassVillageois\csl Villageois\bin\Debug\net6.0\csl Villageois.deps.json
+E:\ClassVillageois\csl Villageois\bin\Debug\net6.0\csl Villageois.runtimeconfig.json
+E:\ClassVillageois\csl Villageois\bin\Debug\net6.0\csl Villageois.dll
+E:\ClassVillageois\csl Villageois\bin\Debug\net6.0\csl Villageois.pdb
+E:\ClassVillageois\csl Villageois\bin\Debug\net6.0\ClassVillageois.dll
+E:\ClassVillageois\csl Villageois\bin\Debug\net6.0\ClassVillageois.pdb
+E:\ClassVillageois\csl Villageois\obj\Debug\net6.0\csl Villageois.csproj.CopyComplete
+E:\ClassVillageois\csl Villageois\obj\Debug\net6.0\csl Villageois.genruntimeconfig.cache
+E:\ClassVillageois\csl Villageois\obj\Debug\net6.0\ref\csl Villageois.dll
